@@ -2,20 +2,20 @@
 
 ## Clone the Repository
 
-\`\`\`bash
+\`\`\`
 git clone <repository_url>
 cd react-native-journaling-app
 \`\`\`
 
 ## Install Dependencies
 
-\`\`\`bash
+\`\`\`
 npm install
 \`\`\`
 
 ## Start the Expo Development Server
 
-\`\`\`bash
+\`\`\`
 npx expo start
 \`\`\`
 
